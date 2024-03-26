@@ -4,8 +4,7 @@ class Location {
     var km : Double = 0.0
     var jour : Int = 0
 
-    constructor(name : String, modeles : String,
-                parcourir : Double, Njour : Int){
+    constructor(name : String, modeles : String, parcourir : Double, Njour : Int){
         this.nom = name
         this.categories = modeles
         this.km = parcourir
@@ -44,7 +43,9 @@ class Location {
         return d
     }
 
-
+    override fun toString(): String {
+        return "Location(nom='$nom', categories='$categories', km=$km, jour=$jour)"
+    }
 
 
 }
