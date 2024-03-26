@@ -1,0 +1,129 @@
+    1  php hyper.php
+    2  sudo a2enmod userdir 
+    3  [200~chmod o+rx
+    4  sudo -i
+    5  su sio
+    6  cd
+    7  cd /
+    8  ls
+    9  php exercice.php
+   10  su -i
+   11  sudo -i
+   12  su sio
+   13  ls
+   14  ls a
+   15  ls -i
+   16  ls -a
+   17  cd ../
+   18  ls
+   19  ls -a
+   20  ls -i
+   21  php exercice.php
+   22  php exercice.php10
+   23  php exercice.php
+   24  cd /media/naptu/NTDH/Programmation/php/
+   25  php exercice.php 
+   26  php contact.php
+   27  touch config.php
+   28  php assiette.php
+   29  cd idea.sh/bin/
+   30  ls
+   31  cd idea-IU-233.14015.106/bin/idea.sh
+   32  cd idea-IU-233.14015.106/
+   33  bin/idea.sh
+   34  cd ../
+   35  ls
+   36  cd ../../../
+   37  ls
+   38  cd bin
+   39  ls
+   40  cd idea.sh
+   41  idea.sh
+   42  sh idea.sh
+   43  mysql -u admin -p
+   44  connect-db.php
+   45  idea.sh
+   46  sh idea.sh
+   47  ls
+   48  ExoCreationTable2024.sql  
+   49  sudo mysql ExoCreationTable2024.sql  
+   50  su -i
+   51  sudo -i
+   52  mysql -u admin -p
+   53  su sio 
+   54  sudo -i 
+   55  ls
+   56  su sio
+   57  sh idea.sh
+   58  su sio
+   59  cd ..
+   60  ls
+   61  sudo -i
+   62  su sio
+   63  cd ../
+   64  ls
+   65  cd public_html/
+   66  ls
+   67  cd geoworld/
+   68  echo "# geoworld" >> README.md
+   69  git init
+   70  git add README.md
+   71  git commit -m "first commit"
+   72  git branch -M main
+   73  git remote add origin https://github.com/ngawangtendor/geoworld.git
+   74  git push -u origin main
+   75  git add .
+   76  git commit -m "first commit"
+   77  git branch -M main
+   78  git remote add origin https://github.com/ngawangtendor/geoworld.git
+   79  git push -u origin main
+   80  git config --global user.name "ngawangtendor"
+   81  git config --global user.email nicolathomas1999@gmail.com
+   82  git config --global http.proxy http://ngawangtendor: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D@172.16.0.51:8080
+   83  echo "# PHPJOB-" >> README.md
+   84  git init
+   85  git add README.md
+   86  git commit -m "first commit"
+   87  git branch -M main
+   88  cd ~/TPPHP2024/
+   89  echo "# PHPJOB-" >> README.md
+   90  git init
+   91  git add README.md
+   92  git commit -m "first commit"
+   93  git branch -M main
+   94  git remote add origin https://github.com/ngawangtendor/PHPJOB-.git
+   95  git push -u origin main
+   96  git add -A
+   97  git commit -m "Deuxième commit"
+   98  git push -u origin main
+   99  git add -A
+  100  git commit -m "Troisième commit"
+  101  git push -u origin main
+  102  git log --oneline
+  103  echo "# geoworld" >> README.md
+  104  sh idea.sh
+  105  su sio
+  106  sh idea.sh
+  107  history
+  108  git config --global user.name "ngawangtendor"
+  109  git config --global user.email nicolathomas1999@gmail.com
+  110  git add .
+  111  git commit -m "fin projet de geoworl"
+  112  git push -u origin main
+  113  sudo cp -r bin/* /usr/bin
+  114  su -i
+  115  su sio
+  116  filezilla
+  117  sudo power off
+  118  su sio
+  119  ls -a
+  120  cd IdeaProjects/
+  121  ls
+  122  git init 
+  123  git add .
+  124  git commit -m "first commit kotlin"
+  125  git branch -M main
+  126  git remote add origin https://github.com/ngawangtendor/tpKotlin.git
+  127  git push -u origin main 
+  128  history
+  129  history > kotlinNew
